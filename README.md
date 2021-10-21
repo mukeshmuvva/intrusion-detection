@@ -1,3 +1,3 @@
 # intrusion-detection
 
-# Well, we are trying to find intrusion-detection through Machine Learning algorithms.
+# Well, we are trying to evaluate fairness in intrusion-detection through Machine Learning algorithms.
